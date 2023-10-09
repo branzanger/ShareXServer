@@ -1,1 +1,1 @@
-"# ShareXServer" 
+# ShareXServer
